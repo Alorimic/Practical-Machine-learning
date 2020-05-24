@@ -1,8 +1,7 @@
 ---
-title: "Practical Machine Learning Project Report"
+title: Practical Machine Learning Project Report
 author: "Amaury PETIT"
 output:
-  pdf_document: default
   html_document:
     fig_height: 9
     fig_width: 9
